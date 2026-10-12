@@ -1,0 +1,29 @@
+<Bindings>
+    <Binding name="ACM_LIGHT" header="ACTIONCOMBAT">
+        ActionCombat_Light()
+    </Binding>
+    <Binding name="ACM_HEAVY" runOnUp="true">
+        ActionCombat_Heavy(keystate)
+    </Binding>
+    <Binding name="ACM_DODGE">
+        ActionCombat_Dodge()
+    </Binding>
+    <Binding name="ACM_GUARD" runOnUp="true">
+        ActionCombat_Guard(keystate)
+    </Binding>
+    <Binding name="ACM_SHOT">
+        ActionCombat_Shot()
+    </Binding>
+    <Binding name="ACM_AIMSHOT" runOnUp="true">
+        ActionCombat_AimShot(keystate)
+    </Binding>
+    <Binding name="ACM_INTERACT">
+        ActionCombat_Interact()
+    </Binding>
+    <Binding name="ACM_ELEMENT">
+        ActionCombat_Element()
+    </Binding>
+    <Binding name="ACM_SPRINT" runOnUp="true">
+        ActionCombat_Sprint(keystate)
+    </Binding>
+</Bindings>
