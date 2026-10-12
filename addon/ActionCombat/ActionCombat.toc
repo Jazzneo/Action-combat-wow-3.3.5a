@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Action Combat
+## Notes: Client side of mod-action-combat: dodge roll, light/heavy attacks, guard & parry, stamina bar.
+## Author: mod-action-combat
+## Version: 1.1
+## SavedVariablesPerCharacter: ActionCombatDB
+ActionCombat.lua
+Camera.lua
